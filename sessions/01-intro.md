@@ -2,8 +2,8 @@
 October 5, 2020
 
 ## Agenda
-1. [Introductions & overview](#introductions)
-2. [Introduction to Digital Scholarship](#digital-scholarship)
+1. [Introductions & program overview](#introductions)
+2. [What is Digital Scholarship?](#digital-scholarship)
 3. [For next time](#for-next-time)
 
 ## Meeting notes
@@ -26,9 +26,8 @@ Note-taker: Name
 - [ ] Email Alice a bio and headshot for the [DS website](https://digitalscholarship.blogs.brynmawr.edu/people/)
 - [ ] Install [Atom](https://atom.io/) text editor
 - [ ] Explore the list of DS resources for [Classics & Classical Archaeology](https://kbreyer.github.io/Digital-Resources-Index/) compiled by last year's grads
-- [] Look for other projects and resources relevant to your area of specialization
-- [] Optional: watch the introductory video for Harvard's [CS50](https://www.youtube.com/watch?v=jjqgP9dpD1k)
+- [ ] Look for other projects and resources relevant to your area of specialization
+- [ ] Optional: watch the introductory video for Harvard's [CS50](https://www.youtube.com/watch?v=jjqgP9dpD1k)
 
-| [Next >>>]()
 
 [Return to syllabus](/syllabus.md)
