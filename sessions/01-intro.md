@@ -11,6 +11,14 @@ October 5, 2020
 
 ### Introductions
 - Name, pronouns, area of specialization, what you hope to do in this program
+  - Zach, Archaeology,
+    - Dissertation stage. Interested in GIS - learning self-directed; pedagogical applications? Open source options.
+    - Central Asia, Hellenistic materials, rural life
+  - Kristen, Classics
+    - Finishing MA thesis; focus on Homer and greek poetry
+    - Digital tools for philological research and language teaching
+  - Thu - prelim/prospectus stage
+    - Interest in Roman Rhetoric
 - Reviewing [syllabus](../syllabus)
 - Logistics and [expectations](../expectations)
 - Setting goals & developing learning plans

@@ -7,24 +7,35 @@ Digital Scholarship Graduate Fellows Program
 - Overview of DSGF program and syllabus
 
 ## 02. Computational thinking
-10/12/2020
+10/19/2020
 
 ## 03. DS in the disciplines
+11/02/2020
 
 ## 04. Web development
+11/16/2020
 
 ## 05. Data
+11/30/2020
 
 ## 06. Project management
+12/14/2020
 
 ## 07. Git, GitHub, Markdown
+1/20?/21
 
 ## 08. Digital pedagogy
+February
 
 ## 09. GIS
+February
 
 ## 10. Data visualization
+March
 
 ## 11. Text analysis
+March
 
 ## 12. Immersive
+
+April

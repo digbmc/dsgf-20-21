@@ -11,10 +11,11 @@ You will receive a stipend of $1000. You will be expected to:
 
 Your hours will not be counted, but you will probably spend 3-6 hours per week on this work. You should not spend more than 15 hours per week.
 
-## Spring 2020
-You will be hired as a Digital Scholarship Graduate Assistant at the rate of $18 an hour. You are permitted to work up to 8 hours per week. You will be expected to:
+## Spring 2021
+You will be hired as a Digital Scholarship Graduate Assistant at the rate of $18 an hour. Your workload (hours per week) will depend on what you're working on, which you and I will determine together. You will be expected to:
 - Attend biweekly meetings
-- Prepare and deliver 2 instruction modules/workshops aimed at BMC undergraduates.
+- Prepare and deliver 1-2 instruction modules/workshops aimed at BMC undergraduates
+- Write a blog post for the Digital Scholarship website reflecting on an aspect of your research or work for the program
 
 Your other duties will depend upon the needs of the DS department and may include:
 - Managing Digital Seed Grant projects
