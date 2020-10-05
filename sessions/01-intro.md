@@ -11,8 +11,8 @@ October 5, 2020
 
 ### Introductions
 - Name, pronouns, area of specialization, what you hope to do in this program
-- Reviewing [syllabus](./syllabus.md)
-- Logistics and [expectations](./expectations.md)
+- Reviewing [syllabus](../syllabus)
+- Logistics and [expectations](../expectations)
 - Setting goals & developing learning plans
 
 ### Digital Scholarship
