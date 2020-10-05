@@ -2,21 +2,22 @@
 October 5, 2020
 
 ## Agenda
-1. [Introductions & program overview](#introductions)
+1. [Introductions](#introductions)
+2. Program overview
 2. [What is Digital Scholarship?](#digital-scholarship)
 3. [For next time](#for-next-time)
 
 ## Meeting notes
-Note-taker: Name
 
 ### Introductions
 - Name, pronouns, area of specialization, what you hope to do in this program
-- Reviewing [syllabus](/syllabus.md)
-- Logistics and expectations
+- Reviewing [syllabus](./syllabus.md)
+- Logistics and [expectations](./expectations.md)
 - Setting goals & developing learning plans
 
 ### Digital Scholarship
 - [slides](http://bit.ly/dsgf-2019)
+
 
 ---
 
