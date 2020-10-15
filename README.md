@@ -11,3 +11,5 @@ This repository contains files and information for and by participants in the 20
 ### Session notes
 
 [Introduction](sessions/01-intro.md) - October 5, 2020
+
+[Command line & computational thinking](sessions/01-intro.md) 
