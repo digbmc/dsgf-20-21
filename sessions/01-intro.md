@@ -22,6 +22,14 @@ October 5, 2020
 - Reviewing [syllabus](../syllabus)
 - Logistics and [expectations](../expectations)
 - Setting goals & developing learning plans
+  - Ideas for goals
+    - Kristen: Developing asynchronous course materials for Latin grammar topics? Interactive content?
+    - Zach: GIS documentation project - codeacademy for python & what python can do for GIS? Workshop format or materials for python as a tool?
+    - Text analysis: metrical divisions in lines?
+      - Placement of words with in a line depending on the meter
+      - TEI text encoding initiative
+    - Introduction to coding
+
 
 ### Digital Scholarship
 - [slides](http://bit.ly/dsgf-2019)
@@ -38,5 +46,6 @@ October 5, 2020
 - [ ] Look for other projects and resources relevant to your area of specialization
 - [ ] Optional: watch the introductory video for Harvard's [CS50](https://www.youtube.com/watch?v=jjqgP9dpD1k)
 
+[Next >>>](/02-computation.md)
 
 [Return to syllabus](/syllabus.md)
