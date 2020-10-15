@@ -6,8 +6,11 @@ Digital Scholarship Graduate Fellows Program
 
 - Overview of DSGF program and syllabus
 
-## 02. Computational thinking
+## 02. [Computational thinking](sessions/02-computation.md)
 10/19/2020
+
+- Discussion of basics of computing
+- Command line tutorial
 
 ## 03. DS in the disciplines
 11/02/2020

@@ -1,6 +1,6 @@
 # About
 
-This repository contains files and information for and by participants in the 2019-2020 [Digital Scholarship Graduate Fellows Program](digitalscholarship.blogs.brynmawr.edu/grads) at Bryn Mawr College.
+This repository contains files and information for and by participants in the 2020-2021 [Digital Scholarship Graduate Fellows Program](digitalscholarship.blogs.brynmawr.edu/grads) at Bryn Mawr College.
 
 ## Contents
 
@@ -11,3 +11,5 @@ This repository contains files and information for and by participants in the 20
 ### Session notes
 
 [Introduction](sessions/01-intro.md) - October 5, 2020
+
+[Command line & computational thinking](sessions/01-intro.md) 
