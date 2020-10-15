@@ -20,12 +20,17 @@ How to add your individual updates:
 - Pay attention to the syntax highlighting and follow the example when you add content
 - When you're done, return to the GitHub repository. Use the branch dropdown (labeled **master**) and create a new branch. Name it something short (your initials or first name). This is your personal version of the repository.
 - In the **logs** folder, select **Add file** and **Upload files**
+- Write a brief comment to summarize your change (i.e. 'updates for 10/19') and select **comit changes**
 - Your updates will only be visible on your personal branch.
 
-How to take meeting notes:
+How to publish meeting notes:
 - Navigate to the GitHub page and make sure you switch to the **master** branch.
 - Download the markdown file for today's session.
 - Use Markdown syntax to add your own notes. Save the document.
+- Return to GitHub and add the file in the same place while you're on your personal branch
+- Navigate to **Pull requests** and click **new pull request**
+- Select master as your base branch and your personal branch as your compare branch
+- Select **Create pull request** and write a brief summary of the changes (i.e. 'notes from 10/19 session')
 
 ### Discussion
 
