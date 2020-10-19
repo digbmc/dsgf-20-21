@@ -14,6 +14,32 @@ Note-taker: Kristen
 
 Note-taking responsibilities will rotate, in first-name alphabetical order (Thu next session, then Zach, then Alice)
 
+## how computers work videos
+>> we didn't know basically any of this 
+  >> Zach appreciates why maybe don't have 1000 apps open at once
+  >> idea of computer language new (talking to computer without a GUI) 
+>> what did we know?
+>> questions?
+  >> what stops *them* from editing any code in any computer?
+  >> answer: some people do (see Linux)
+    >> risk of breaking something or creating a vulnerability
+    >> plus just hard
+  >> Intellectual property issues may prevent code editing 
+  >> How was programming language developed?
+    >> a Programming language is a program that allows you to write other programs
+    >> usually happens within a community of developers
+      >> see Pandoc, file conversion tool
+>> did the information in these videos make you think differently about anything you do?
+  >> allayed some concerns for Zach
+  >> Alice: no one is "tech savvy." People just have different confidence
+>> Understanding how computers understand information
+  >> Computers are good at counting and indexing 
+
+## The Command Line
+>> In either git bash or terminal
+>> folder = directory
+>> different operating systems organize files differently 
+
 ### Business
 - Announcements
 - Individual updates and questions
