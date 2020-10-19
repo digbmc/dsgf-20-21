@@ -1,7 +1,7 @@
 # 02. Computational Thinking
 October 19, 2020
 
-![Two humans operating a computer the size of a room](../_media/Eniac.jpg)
+![Two humans operating a computer the size of a room](../media/Eniac.jpg)
 
 ## Agenda
 1. [Business & Updates](#meeting-notes)
