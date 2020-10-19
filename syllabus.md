@@ -9,23 +9,33 @@ Digital Scholarship Graduate Fellows Program
 ## 02. [Computational thinking](sessions/02-computation.md)
 10/19/2020
 
-- Discussion of basics of computing
+Notes: Kristen
+
+- Discussion of computing basics
 - Command line tutorial
 
 ## 03. DS in the disciplines
 11/02/2020
 
+Notes: Thu
+
 ## 04. Web development
 11/16/2020
+
+Notes: Zach
 
 ## 05. Data
 11/30/2020
 
+Notes: Alice
+
 ## 06. Project management
 12/14/2020
 
+Notes: Kristen
+
 ## 07. Git, GitHub, Markdown
-1/20?/21
+January 2021
 
 ## 08. Digital pedagogy
 February

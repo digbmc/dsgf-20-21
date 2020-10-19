@@ -12,4 +12,4 @@ This repository contains files and information for and by participants in the 20
 
 [Introduction](sessions/01-intro.md) - October 5, 2020
 
-[Command line & computational thinking](sessions/01-intro.md) 
+[Command line & computational thinking](sessions/02-computation.md) - October 19, 2020

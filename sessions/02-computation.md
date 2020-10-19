@@ -1,41 +1,70 @@
 # 02. Computational Thinking
 October 19, 2020
 
+![Two humans operating a computer the size of a room](../_media/Eniac.jpg)
+
 ## Agenda
 1. [Business & Updates](#meeting-notes)
-2. [Discussion of how computers work](#discussion)
+2. [Workflow for adding updates & notes](#updates-workflow)
 3. [Command line tutorial](#command-line)
 3. [For next time](#for-next-time)
 
 ## Meeting notes
 Note-taker: Kristen
 
-### Updates
+Note-taking responsibilities will rotate, in first-name alphabetical order (Thu next session, then Zach, then Alice)
+
+### Business
+- Announcements
+- Individual updates and questions
+
+### Updates workflow
 
 How to add your individual updates:
+
 - Navigate to the [GitHub repository](https://github.com/digbmc/dsgf-20-21) for this site and then to the **logs** folder
-- Download the file **sample.md** (click **Raw** and then save it as)
+
+- Download the file **sample.md** (click **Raw** and then **save as** wherever you keep your files for this group)
+
 - Open it up in your Atom text editor and save the file as **name.md** (your first name)
+
 - Edit the file to add your name and a few updates for this week
+
 - Pay attention to the syntax highlighting and follow the example when you add content
-- When you're done, return to the GitHub repository. Use the branch dropdown (labeled **master**) and create a new branch. Name it something short (your initials or first name). This is your personal version of the repository.
+
+- When you're done, return to the GitHub repository. Use the branch dropdown menu (labeled **master**) and create a new branch. Name it something short (your initials or first name). This is your personal version of the repository.
+
 - In the **logs** folder, select **Add file** and **Upload files**
-- Write a brief comment to summarize your change (i.e. 'updates for 10/19') and select **comit changes**
-- Your updates will only be visible on your personal branch.
+
+- Write a brief comment to summarize your change (i.e. 'updates for 10/19') and select **commit changes**
+
+- Your updates will only be visible on your personal branch unless you create a **pull request** to merge them with the main branch
 
 How to publish meeting notes:
-- Navigate to the GitHub page and make sure you switch to the **master** branch.
-- Download the markdown file for today's session.
-- Use Markdown syntax to add your own notes. Save the document.
-- Return to GitHub and add the file in the same place while you're on your personal branch
-- Navigate to **Pull requests** and click **new pull request**
-- Select master as your base branch and your personal branch as your compare branch
-- Select **Create pull request** and write a brief summary of the changes (i.e. 'notes from 10/19 session')
+
+1. Navigate to the GitHub page and make sure you switch to the **master** branch.
+
+2. Download the markdown file for today's session.
+
+3. Use Markdown syntax to add your own notes. Save the document.
+
+4. Return to GitHub and add the file in the same place while you're on your personal branch
+
+5. Navigate to **Pull requests** and click **new pull request**
+
+6. Select master as your base branch and your personal branch as your compare branch
+
+7. Select **Create pull request** and write a brief summary of the changes (i.e. 'notes from 10/19 session')
 
 ### Discussion
 
+ [Code.org](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) videos
+
 ### Command line
 
+- Installations:
+  - [Xcode/git](https://github.com/tri-cods/install/blob/master/sections/git.md)
+  - [Atom](https://github.com/tri-cods/install/blob/master/sections/atom.md)
 - [Tutorial from DSRI](https://github.com/tri-cods/command-line)
 
 #### Resources
@@ -47,10 +76,11 @@ How to publish meeting notes:
 
 
 ## For next time
-- Add your updates by Wednesday evening
+- Add your updates by Monday morning 11/2
 - Readings on DH in your discipline
   - [Archaeology, the Digital Humanities, and the 'Big Tent'](https://dhdebates.gc.cuny.edu/read/untitled/section/abdd0db0-2eaa-4af7-aac3-7f24ca70ed3b), Ethan Watrall, *Debates in the Digital Humanities 2016* (Minnesota UP: 2016)
   - ["Digital Methods and Classical Studies"](http://www.digitalhumanities.org/dhq/vol/10/2/000253/000253.html), Bernstein and Coffee, DHQ 10.2 (2016)
+- Find additional resources, projects, and readings relevant to your sub-discipline
 - Optional:
   - [Introduction to the command line (LinkedIn Learning tutorial)](https://www.linkedin.com/learning/learning-linux-command-line-2/)
   - play [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
@@ -60,3 +90,7 @@ How to publish meeting notes:
 [Return to syllabus](../syllabus.md)
 
 [Home](../README.md)
+
+
+Image:
+ENIAC (Electronic Numerical Integrator And Computer, By Unknown author - U.S. Army Photo, Public Domain, https://commons.wikimedia.org/w/index.php?curid=55124
