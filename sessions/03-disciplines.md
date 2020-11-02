@@ -25,7 +25,7 @@ Note-taker: Thu
 - [ ] Think about what you would like to include on your personal professional website
 
 
-[<<< Previous](/02-computation) | [Next >>>]
+[<<< Previous](/02-computation.md) | [Next >>>]
 
 [Return to syllabus](../syllabus.md)
 
