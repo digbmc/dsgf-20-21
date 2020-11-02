@@ -14,10 +14,13 @@ Notes: Kristen
 - Discussion of computing basics
 - Command line tutorial
 
-## 03. DS in the disciplines
+## 03. [DS in the disciplines](sessions/03-disciplines.md)
 11/02/2020
 
 Notes: Thu
+
+- DS in Classics and Archaeology
+- Sharing resources
 
 ## 04. Web development
 11/16/2020

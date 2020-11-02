@@ -16,11 +16,11 @@ Note-taker: Name
 
 
 ## For next time
-- [ ] Add your updates by Wednesday evening
+- [ ] Add your updates by Monday morning
 - [ ] Other
 
 [<<< Previous]() | [Next >>>]()
 
-[Return to syllabus](/syllabus.md)
+[Return to syllabus](../syllabus.md)
 
-[Home](/README.md)
+[Home](../README.md)
