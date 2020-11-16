@@ -22,10 +22,15 @@ Notes: Thu
 - DS in Classics and Archaeology
 - Sharing resources
 
-## 04. Web development
+## 04. [Web development](sessions/04-web.md)
 11/16/2020
 
 Notes: Zach
+
+- internet basics
+- html
+- css
+- publishing on Domain of one's own
 
 ## 05. Data
 11/30/2020
