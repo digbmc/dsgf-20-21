@@ -61,7 +61,7 @@ Other updates:
 - Food coma from Nov 26-28.
 
 - Wireframe:
-- ![](assets/ZSilvia-d8259fb4.jpg)
+- ![ZS_Wireframe](../media/ZSilvia-d8259fb4.jpg)
 ---
 
 ## Markdown
