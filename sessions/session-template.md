@@ -16,8 +16,8 @@ Note-taker: Name
 
 
 ## For next time
-- [ ] Add your updates by Monday morning
-- [ ] Other
+- Add your updates by Monday morning
+- Other
 
 [<<< Previous]() | [Next >>>]()
 
