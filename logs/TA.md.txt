@@ -1,57 +1,18 @@
 # Thu Ta
 Fall 2020 log
 
-## October 19
+## November 30th
 
 What I did:
-- Used Atom for the first time.
-- Signed up for github
-- watched code.org videos.
-- Did an introduction to Command line
-- I played the Terminus Command Line Game
--Read the Introduction to Bash Command Line
-- Read "Digital Methods and Classical Studies" by Berstein and Coffee, DHQ, 10.2 (2016)
+- Worked on creating a wireframe for my Professional Website
+- Continued to Look up exhibits on Omeka.
+- Looked up more resources for digital scholarship in my field
 Questions/ideas:
-- Idea
-- Question
+- I couldn't make the picture on my wireframe website smaller.
+- When I use Atom it makes my computer slower, I do not know why.
 
 Other updates:
-- one thing
-- another thing
+- I also tried doing the CSS Diner
+
 
 ---
-
-## Markdown
-
-```
-# First-level heading
-
-## Second-level heading
-
-1. Ordered list
-2. ordered list
-
-- Unordered list
-- Unordered list
-
-Use multiple returns or consecutive lines
-will run together
-
-*Italics* or **Bold**
-
-```
-
-# First-level heading
-
-## Second-level heading
-
-1. Ordered list
-2. ordered list
-
-- Unordered list
-- Unordered list
-
-Use multiple returns or consecutive lines
-will run together
-
-*Italics* or **Bold**
