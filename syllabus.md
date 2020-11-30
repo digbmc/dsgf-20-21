@@ -51,8 +51,14 @@ Notes: Kristen
 
 ### Git, GitHub, Markdown
 
+### Digital exhibits
+
 ## 07.
-January 2021
+January 22, 2021
+
+## 08.
+January 26, 2021
+
 
 ## 08. Digital pedagogy
 February
@@ -66,6 +72,8 @@ March
 ## 11. Text analysis
 March
 
-## 12. Immersive
+## 12.
 
 April
+
+## TBD: optional makerspace session

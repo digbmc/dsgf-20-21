@@ -76,13 +76,17 @@ will run together
 
 *Italics*  - `*Italics*` and  **Bold** - `*Bold*`
 
-Short `code snippet or unformatted text`
+Short `code snippet`
+
+```
+Short `code snippet`
+```
 
 ```{markdown}
 multi-line code snippet
-\```{markdown}
-multi-line code snippet
-\```
 ```
+![screenshot of multi-line code snippet](../media/md-snippet.png)
+
+
 
 \* \# escape characters (without markdown function) `\* \# `
