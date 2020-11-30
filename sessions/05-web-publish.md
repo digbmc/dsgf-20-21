@@ -18,7 +18,7 @@ Note-taker: Alice
 
 ### Web Publishing
 - Questions/review
-- Domain of One's Own tour
+- Domain of One's Own tour: https://digital.brynmawr.edu/
 - Publishing your sites using the file manager
 - Web Accessibility
 
