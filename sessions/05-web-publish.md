@@ -30,12 +30,13 @@ Note-taker: Alice
 Web Accessibility
 - [slides](https://bit.ly/a11y-10-17)
 
-Resources:
+### Resources
 - [Tech docs for Domain of One's Own](https://techdocs.blogs.brynmawr.edu/category/domain-of-ones-own)
 - [Reclaim hosting](https://reclaimhosting.com/)
 - [Domain of One's Own Workshop Slides](https://docs.google.com/presentation/d/1kGqHGiTX1dYiLiHvQ4Cjvci8Q3lBsPM2eBoCGTQlv9Q/edit?usp=sharing)
 - [WebAIM Intro to Web Accessibility](http://webaim.org/intro/)
 - [WAVE: Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+- Site security - instructions on issuing ssl certificate for your domain: https://community.reclaimhosting.com/t/installing-free-ssl-certificates/325
 
 
 ## For next time

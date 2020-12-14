@@ -107,6 +107,11 @@ Tutorials can be very specific but might include elements unessential for your t
   - Templates and models
     - https://html5up.net/
     - http://www.csszengarden.com/
+  - Examples of professional academic websites
+    - [Rachel Starry](http://rachelstarry.org/)
+    - [Sara Grossman](https://www.sarajgrossman.com/)
+    - [Rachel Buurma](https://rachelsagnerbuurma.org/notes/)
+    - [Jenni Glaser](http://jenniglaser.digital.brynmawr.edu/)
 
 ## For next time
 - [ ] Add your updates by Monday morning
