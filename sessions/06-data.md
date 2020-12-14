@@ -27,7 +27,7 @@ Note-taker: Kristen
 - Add your updates by Monday morning
 - Other
 
-[<<< Previous]() | [Next >>>]()
+[<<< Previous](/05-web-publish.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 

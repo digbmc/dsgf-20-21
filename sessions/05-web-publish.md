@@ -46,7 +46,7 @@ Web Accessibility
 - Set up a meeting with me before 12/17
 - Workshop ideas: choose a few preferred dates for your spring workshop and propose 2 topics
 
-[<<< Previous](/04-web.md) | [Next >>>]()
+[<<< Previous](/04-web.md) | [Next >>>](/06-data.md)
 
 [Return to syllabus](../syllabus.md)
 

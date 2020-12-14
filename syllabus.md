@@ -40,7 +40,7 @@ Notes: Alice
 - publishing on Domain of one's own
 - web accessibility basics
 
-## 06. Data
+## 06. [Data](sessions/06-data.md)
 12/14/2020
 
 Notes: Kristen

@@ -21,3 +21,5 @@ This repository contains files and information for and by participants in the 20
 [Web development with html and css](sessions/04-web.md) - November 16, 2020
 
 [Web publishing and web accessibility](sessions/05-web-publish.md) - November 30, 2020
+
+[Data](sessions/06-data.md) - December 14, 2020
