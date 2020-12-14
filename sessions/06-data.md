@@ -10,7 +10,8 @@ December 14, 2020
 Note-taker: Kristen
 
 ### Business
-- Workshop ideas
+- Workshop ideas & dates
+- Roles for Spring work
 - Questions and updates
   - Examples of professional websites: added to [Resources for Session 04](/04-web.md#resources)
   - Security - instructions on [issuing ssl certificate for your domain](https://community.reclaimhosting.com/t/installing-free-ssl-certificates/325)
@@ -22,10 +23,17 @@ Note-taker: Kristen
 ### Resources
 - [DataBasic](https://databasic.io/en/)
 - [From Data to Viz](https://www.data-to-viz.com/)
+- [Rawgraphs]()
 
 ## For next time
-- Add your updates by Monday morning
-- Other
+*Friday, January 22*
+- Choose a date and time for your workshop and write a short description
+- Propose a lightning-round topic for the Grad Showcase in February
+- Email me and let me know:
+  1. How many hours you'd like to work next semester
+  2. Your preferences between: running a community of learning, teaching additional workshops, helping develop and run events, supervising undergraduates
+- Finish OpenRefine tutorial
+
 
 [<<< Previous](/05-web-publish.md) | [Next >>>]()
 

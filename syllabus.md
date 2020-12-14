@@ -54,10 +54,10 @@ Notes: Kristen
 ### Digital exhibits
 
 ## 07.
-January 22, 2021
+Friday, January 22, 2021; 10:00-12:00
 
 ## 08.
-January 26, 2021
+Tuesday, January 26, 2021; 10:00-12:00
 
 
 ## 08. Digital pedagogy
