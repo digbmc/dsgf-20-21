@@ -1,4 +1,4 @@
-# Date - Session title
+# 04. Web Design & Development
 
 ## Agenda
 1. [Business & Updates](#meeting-notes)
@@ -14,21 +14,19 @@ Tutorials can be very specific but might include elements unessential for your t
 - Anaconda allows you to run multiple versions of Python at the same time.
 - Virtual python environments
 - A., K., Z. will meet at 2pm on Friday. Invite sent.
-
--Thu looked up database for papyri and epigraphy (not nec. philology)
+- Thu looked up database for papyri and epigraphy (not nec. philology)
 - GitHub: see how it looks before you create pull request
-
 - Be sure to save these markdown files as a .md
-
 - "What is the internet?"
--   Seems less complicated than we thought. Satellite vs. wire based infrastructure.
--   Conversation about data security - not prioritized enough.
--   K. noted relationship between speed of distribution of info enabled by internet with demands of capitalism. Culture shift in time demands.
--   A. noted: Environmental issue - people thought it would be great for the environment (smaller carbon footprint). Environmental toll of servers and traffic. Data gets bigger and more complicated. Human rights imprint of tech.
--   "Digital divide" and economics due to Covid.
--   solar.lowtechmagazine.com - "static website" - flat set of html and css files rather than being based on a database that structures the data.
+  - Seems less complicated than we thought. Satellite vs. wire based infrastructure.
+  - Conversation about data security - not prioritized enough.
+  - K. noted relationship between speed of distribution of info enabled by internet with demands of capitalism. Culture shift in time demands.
+  - A. noted: Environmental issue - people thought it would be great for the environment (smaller carbon footprint). Environmental toll of servers and traffic. Data gets bigger and more complicated. Human rights imprint of tech.
+  - "Digital divide" and economics due to Covid.
+  - solar.lowtechmagazine.com - "static website" - flat set of html and css files rather than being based on a database that structures the data.
 
 ### Web Development
+
 - html - building block of internet. Every webpage generates html.
 - "The stack" = full stack programmer can do back end and front end web development (how things are structure (html) and displayed (css)).
 - JavaScript gives interactivity through rewriting html and css (which we will not do).
@@ -79,8 +77,6 @@ Tutorials can be very specific but might include elements unessential for your t
 - https://www.w3schools.com/w3css/defaulT.asp 
 - https://tinyurl.com/web-int
 
-#### HTML & CSS Basics
-
 
 #### Instructions
 
@@ -111,12 +107,18 @@ Tutorials can be very specific but might include elements unessential for your t
   - Templates and models
     - https://html5up.net/
     - http://www.csszengarden.com/
+  - Examples of professional academic websites
+    - [Rachel Starry](http://rachelstarry.org/)
+    - [Sara Grossman](https://www.sarajgrossman.com/)
+    - [Rachel Buurma](https://rachelsagnerbuurma.org/notes/)
+    - [Jenni Glaser](http://jenniglaser.digital.brynmawr.edu/)
 
 ## For next time
 - [ ] Add your updates by Monday morning
 - [ ] Create a wireframe for your professional website
+- [ ] Review the [slides on web design](https://tinyurl.com/web-int)
 
-[<<< Previous]() | [Next >>>]()
+[<<< Previous](/03-disciplines.md) | [Next >>>](/05-web-publish.md)
 
 [Return to syllabus](../syllabus.md)
 

@@ -8,8 +8,18 @@ This repository contains files and information for and by participants in the 20
 
 [Expectations](/expectations.md)
 
+[Editing instructions for GitHub repository](/resources/instructions.md)
+
 ### Session notes
 
 [Introduction](sessions/01-intro.md) - October 5, 2020
 
 [Command line & computational thinking](sessions/02-computation.md) - October 19, 2020
+
+[Digital Scholarship in the disciplines](sessions/03-disciplines.md) - November 2, 2020
+
+[Web development with html and css](sessions/04-web.md) - November 16, 2020
+
+[Web publishing and web accessibility](sessions/05-web-publish.md) - November 30, 2020
+
+[Data](sessions/06-data.md) - December 14, 2020

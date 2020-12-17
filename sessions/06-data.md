@@ -7,6 +7,7 @@ December 14, 2020
 3. [For next time](#for-next-time)
 
 ## Meeting notes
+
 Note-taker: Zach
 
 ### Business
@@ -38,7 +39,6 @@ Note-taker: Zach
     - Skip tp main content link should be present.
 
   - Security - instructions on [issuing ssl certificate for your domain](https://community.reclaimhosting.com/t/installing-free-ssl-certificates/325)
-
 
 ### Data
 - [Data Cleaning with OpenRefine tutorial](https://github.com/tri-cods/tidy-data)

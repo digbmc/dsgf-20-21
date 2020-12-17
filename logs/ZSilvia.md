@@ -82,7 +82,18 @@ Questions/ideas:
 Other updates:
 - N/A
 
+## November 16
+- Met with Alice on Nov 20
+- Watched two AutomateGIS tutorials, entry level Jupyter (looked at interface), ready to start python
+- Added some info to existing html sandbox packages
+- Watched a video about wireframe basics
+- Draft Wireframe of actual professional page
+- reviewed slides from previous Session
+- html basics on w3schools
+- Food coma from Nov 26-28.
 
+- Wireframe:
+- ![ZS_Wireframe](../media/ZSilvia-d8259fb4.jpg)
 ---
 
 ## Markdown

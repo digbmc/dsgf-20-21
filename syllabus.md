@@ -22,23 +22,43 @@ Notes: Thu
 - DS in Classics and Archaeology
 - Sharing resources
 
-## 04. Web development
+## 04. [Web development](sessions/04-web.md)
 11/16/2020
 
 Notes: Zach
 
-## 05. Data
+- internet basics
+- html
+- css
+
+
+## 05. [Web publishing](sessions/05-web-publish.md)
 11/30/2020
 
 Notes: Alice
 
-## 06. Project management
+- publishing on Domain of one's own
+- web accessibility basics
+
+## 06. [Data](sessions/06-data.md)
 12/14/2020
 
 Notes: Kristen
 
-## 07. Git, GitHub, Markdown
-January 2021
+## Spring 2021
+
+### Project management
+
+### Git, GitHub, Markdown
+
+### Digital exhibits
+
+## 07.
+Friday, January 22, 2021; 10:00-12:00
+
+## 08.
+Tuesday, January 26, 2021; 10:00-12:00
+
 
 ## 08. Digital pedagogy
 February
@@ -52,6 +72,8 @@ March
 ## 11. Text analysis
 March
 
-## 12. Immersive
+## 12.
 
 April
+
+## TBD: optional makerspace session
