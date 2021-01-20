@@ -47,8 +47,40 @@ Questions/ideas:
 - How can I not overwhelm/fatigue myself, especially when my computer does not do things the way my tutorials say they will. It feels hopeless even with troubleshooting on stack, google, and GitHub!
 
 Other updates:
-- one thing
-- another thing
+- N/A
+
+## November 30
+- Met with Alice on Nov 20
+- Watched two AutomateGIS tutorials, entry level Jupyter (looked at interface), ready to start python
+- Added some info to existing html sandbox packages
+- Watched a video about wireframe basics
+- Draft Wireframe of actual professional page
+- reviewed slides from previous Session
+- html basics on w3schools
+- Food coma from Nov 26-28.
+
+- Wireframe:
+- ![ZS_Wireframe](../media/ZSilvia-d8259fb4.jpg)
+
+## December 14
+
+What I did:
+- Worked on professional website using an HTML5 Template
+  - tried to upload to domain of one's own, but cannot get the page to display. Also a problem with one of the tabbed links.
+- QGIS and Python: Learned how to access features and attributes within a layer using the Python Console. Learned how to find the coordinates of features within a layer. Entered these instructions in QGIS for Archaeologists document reflecting what was learned.
+- Completed Lesson 1 in AutomatingQGIS class. Learned how to create points, lines, polygons, define a boundary, create shapes with holes in them all with shapely using Jupyter.
+- Workshop ideas:
+  - 1) QGIS for Archaeology, Classics, and HART students: An Introduction. Why GIS?
+    - This session would be a very basic overview of GIS. What are its applications? How do people use it? And specifically, why is GIS an important tool for students in the humanities? What can archaeology, classics, and history of art students gain from learning GIS basics?
+  - 2) QGIS: Creating your first map.
+    - Raster vs. Vector maps. Working with historical maps vs. vector maps.
+    - Coordinate systems, layers, attribute tables, points, and polygons.
+
+Questions/ideas:
+- None this week.
+
+Other updates:
+- N/A
 
 ## November 16
 - Met with Alice on Nov 20
