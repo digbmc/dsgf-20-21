@@ -69,7 +69,7 @@ Note-taker: Zach
 - Finish OpenRefine tutorial
 
 
-[<<< Previous](/05-web-publish.md) | [Next >>>]()
+[<<< Previous](/05-web-publish.md) | [Next >>>](/07-git.md)
 
 [Return to syllabus](../syllabus.md)
 

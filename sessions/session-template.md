@@ -1,4 +1,5 @@
-# Date - Session title
+# 00. Title
+Date
 
 ## Agenda
 1. [Business & Updates](#meeting-notes)

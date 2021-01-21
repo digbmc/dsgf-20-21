@@ -43,18 +43,15 @@ Notes: Alice
 ## 06. [Data](sessions/06-data.md)
 12/14/2020
 
+Notes: Zach
+
+
+## 07. [Git](sessions/07-git.md)
+Friday, January 22, 2021; 10:00-12:00
+
 Notes: Kristen
 
-## Spring 2021
-
-### Project management
-
-### Git, GitHub, Markdown
-
-### Digital exhibits
-
-## 07.
-Friday, January 22, 2021; 10:00-12:00
+- Git version control
 
 ## 08.
 Tuesday, January 26, 2021; 10:00-12:00
@@ -77,3 +74,8 @@ March
 April
 
 ## TBD: optional makerspace session
+
+## Future topics
+
+- Project management
+- Digital exhibits
