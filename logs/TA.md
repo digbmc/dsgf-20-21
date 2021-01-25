@@ -6,7 +6,6 @@ Spring 2021 log
 What I did:
 - I went back and tried to calculate how much hours I actually put in for the two workshops for this pay period.
 - I explored the Canva website, and created a sample poster for our Graduate Showcase.
-![https://www.canva.com/design/DAEURvxrUzk/aP7NGM-Oa2FlrpwiYarLxA/view?utm_content=DAEURvxrUzk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton]()
 - I tried to get a head start on our DHRI Git tutorial.
 
 
