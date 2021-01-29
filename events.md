@@ -18,7 +18,7 @@ Call for proposals
 
 Kristen Patterson
 
-W 3/10 time TBD
+W 3/10 1:10 PM - 3:00 PM 
 
 
 
@@ -26,19 +26,19 @@ W 3/10 time TBD
 
 Thu Ta
 
-Week of 4/5 TBD
+M 4/5 1:00 - 3:00
 
 
 
 ### Practical Geographic Information Systems (GIS)
 Zach Silvia
-Sat 2/20 time TBD
+Sat 2/20 time 12:00 - 1:00 PM
 
 ### QGIS Series
 Zach Silvia
-1. Basic mapping workshop: points, lines, polygons, basemaps in QGIS - 3/6
-2. Map resources (natural earth and satellite imagery) and making a digital elevation model - 3/20
-3. Georeferencing historical maps - 4/3
+1. Basic mapping workshop: points, lines, polygons, basemaps in QGIS - Sat 3/6 12:00 - 2:30
+2. Map resources (natural earth and satellite imagery) and making a digital elevation model - Sat 3/20 12:00 - 2:30
+3. Georeferencing historical maps - Sat 4/3 12:00 - 2:30
 
 Notes:
 

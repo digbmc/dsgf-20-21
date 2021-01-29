@@ -46,36 +46,45 @@ Notes: Alice
 Notes: Zach
 
 
-## 07. [Git](sessions/07-git.md)
-Friday, January 22, 2021; 10:00-12:00
+## 07. [Spring planning](sessions/07-plans.md)
+F 01/22/21; 10:00-12:00
 
 Notes: Kristen
 
-- Git version control
+- Showcase
+- Workshop schedule
+- Spring roles
 
-## 08.
-Tuesday, January 26, 2021; 10:00-12:00
+## 08. [Git](sessions/08-git.md)
+T 01/26/21; 10:00-12:00
 
+Notes: Thu
 
-## 08. Digital pedagogy
-February
+## 09. TBD
+T 02/09/21
 
-## 09. GIS
-February
+## 10. TBD
+T 02/23/21
 
-## 10. Data visualization
-March
+## 11. TBD
+T 03/09/21
 
-## 11. Text analysis
-March
+## 12. TBD
+T 03/23/21
 
-## 12.
+## 13. TBD
+T 04/06/21
 
-April
+## 14. TBD
+T 04/20/21
 
 ## TBD: optional makerspace session
 
-## Future topics
+## Spring topics
 
 - Project management
 - Digital exhibits
+- Digital pedagogy
+- Text analysis
+- Data visualization
+- GIS

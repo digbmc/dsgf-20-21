@@ -12,8 +12,8 @@ January 21, 2021
 ## Meeting notes
 Note-taker: Kristen
 
-- by next week, get down dates for workshops and define roles and responsibilities. 
-- Alice sends link to hourly timesheets. Submit them by Teusday at noon to the chosen one. Count time we spend meeting and the time you spend prepping your workshop in your hours. 
+- by next week, get down dates for workshops and define roles and responsibilities.
+- Alice sends link to hourly timesheets. Submit them by Teusday at noon to the chosen one. Count time we spend meeting and the time you spend prepping your workshop in your hours.
 - schedule/format for showcase: add a couple presenters, 5 - 7 min presentations (maybe 10 mins if fewer presenters) with a Q&A
   - 5 slides, 5 minutes (or a couple slides with a demo)
 - **Lightning talks: thurs 4/1 4:00 - 5:30 pm**
@@ -30,9 +30,9 @@ Note-taker: Kristen
     - find a picture for Zach to use here
   - Kristen on DS blog post (1/30)
   - everyone submit event to daily digest (2/1) [submission link](https://www.brynmawr.edu/node/add/event)
-    - choose *everyone* for audience 
+    - choose *everyone* for audience
   - poster (2/5)
-- Grad Showcase CFP submission 3/1 deadline, 2/12 announcement 
+- Grad Showcase CFP submission 3/1 deadline, 2/12 announcement
 
 ### Business
 - Updates & announcements
@@ -50,9 +50,11 @@ Note-taker: Kristen
 - [GitHub Workflow Overview](https://guides.github.com/introduction/flow/)
 
 ## For next time
-- Add your updates
+- Finish Git tutorial
+- Compile promotional materials for your workshop
+- Add details to spreadsheet (onedrive)
 
-[<<< Previous](/06-data.md) | [Next >>>]()
+[<<< Previous](/07-plans.md) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 
