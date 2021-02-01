@@ -63,7 +63,10 @@ Notes: Thu
 ## 09. TBD
 T 02/09/21
 
-## 10. TBD
+## 10. Digital Pedagogy
+
+Vickie Karasic & Maria Ocando Finol, Educational Technology Specialists
+
 T 02/23/21
 
 ## 11. TBD
