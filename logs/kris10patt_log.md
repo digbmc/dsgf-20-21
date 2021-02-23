@@ -66,6 +66,7 @@ what I did:
 Questions/Ideas:
 - I'm leaning towards useing the "Massively" template for the workshop [massively demo](https://html5up.net/massively). I'm still open to feedback, though. 
 
+
 ---
 
 ## February 23
@@ -73,3 +74,5 @@ Questions/Ideas:
 what I did:
 - develop html workshop
 - made poster for workshops
+
+

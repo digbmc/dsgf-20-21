@@ -60,25 +60,33 @@ T 01/26/21; 10:00-12:00
 
 Notes: Thu
 
-## 09. TBD
+## 09. [Spring Plans]()
 T 02/09/21
 
-## 10. Digital Pedagogy
+## 10. [Digital Pedagogy](sessions/10-digi-ped.md)
 
-Vickie Karasic & Maria Ocando Finol, Educational Technology Specialists
+Vickie Karasic & Mari Ocando Finol, Educational Technology Specialists
+
+Kristen: HTML & Domain of One's Own
 
 T 02/23/21
 
-## 11. TBD
+## 11. GIS Workshop
+
+Zach
+
 T 03/09/21
 
-## 12. TBD
+## 12. Text Analysis
+
+Thu
+
 T 03/23/21
 
-## 13. TBD
+## 13. Digital Exhibits
 T 04/06/21
 
-## 14. TBD
+## 14. Project management
 T 04/20/21
 
 ## TBD: optional makerspace session
