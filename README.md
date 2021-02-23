@@ -23,3 +23,7 @@ This repository contains files and information for and by participants in the 20
 [Web publishing and web accessibility](sessions/05-web-publish.md) - November 30, 2020
 
 [Data](sessions/06-data.md) - December 14, 2020
+
+[Git, GitHub, and Markdown](sessions/08-git.md) - January 26, 2020
+
+[Digital Pedagogy](sessions/10-digi-ped.md) - Feb 23 2021
