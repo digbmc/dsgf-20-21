@@ -1,11 +1,11 @@
-# My Name
+# Thu Ta
 Spring 2021  log
 
-January 9th
+February 23rd
 
 What I did:
-- Reviewed the Git material
+- Reviewed the Git material again, this seems to a rather complicated topic for me.
 - Researched promotional materials for my workshop
-- Added my details to the spreadsheet.
+- Did some more research for my workshop.
 Questions/ideas:
-- 
+-
