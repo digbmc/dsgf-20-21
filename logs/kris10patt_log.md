@@ -53,3 +53,15 @@ What I did:
 
 Questions/ideas:
 - I ran into some trouble trying to use command line arguments in Jupyter notebooks. pwd, ls, and cd all seem to work, but I tried to cat a txt file and got a syntax error that I could not resolve. 
+
+---
+
+## February 9
+
+what I did:
+- worked more with cltk 
+- looked at some more html5 up sites to choose one for the workshop
+- started working throught the linkedin learning course for html bootstrap
+
+Questions/Ideas:
+- I'm leaning towards useing the "Massively" template for the workshop [massively demo](https://html5up.net/massively). I'm still open to feedback, though. 
