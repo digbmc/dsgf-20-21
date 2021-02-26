@@ -21,7 +21,7 @@ Mari Ocando Finol & Vickie Karasic
 - Add your updates by Monday morning
 
 
-[<<< Previous]() | [Next >>>]()
+[<<< Previous](/08-git) | [Next >>>]()
 
 [Return to syllabus](../syllabus.md)
 
