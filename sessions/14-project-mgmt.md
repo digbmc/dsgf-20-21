@@ -15,12 +15,12 @@ Note-taker: Name
 - Other business
 
 ### Exhibit builder
-- Demonstrate build
+Troubleshooting & demonstration build of the site
 
 ### Project management
-1. Planning questions
-2. Slides
-3. Sample project charter & DS project charter
+1. [Planning questions](/resources/ds-project-planning.md)
+2. [Digital Scholarship project charter template](/resources/project-charter-template-ds.md)
+3. Planning for Symposium Site project
 
 
 ## For next time
