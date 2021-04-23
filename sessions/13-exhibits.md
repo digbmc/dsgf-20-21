@@ -28,7 +28,11 @@ Platforms
 - Collection Builder
 
 Creating Collection Builder exhibit
-1. Create repository from [cb template](https://github.com/CollectionBuilder/collectionbuilder-gh):
+1. Create repository from [cb template](https://github.com/CollectionBuilder/collectionbuilder-gh)
+2. Create metadata spreadsheet using their template & add as csv to data folder
+3. Add image resources
+4. Customization
+5. Deployment
 
 Metadata to add:
   - Museum

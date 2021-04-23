@@ -61,7 +61,7 @@ eg. Github pages
 - Compile promotional materials for your workshop
 - Add details to spreadsheet (onedrive)
 
-[<<< Previous](/07-plans.md) | [Next >>>](/10-digi-ped)
+[<<< Previous](/07-plans.md) | [Next >>>](/10-digi-ped.md)
 
 [Return to syllabus](../syllabus.md)
 
