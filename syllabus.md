@@ -88,15 +88,15 @@ T 03/23/21
 
 Note-taker: Zach
 
-## 13. Digital Exhibits
+## [13. Digital Exhibits](/sessions/13-exhibits.md)
 
 T 04/06/21
 
 Note-taker: Thu
 
-## 14. Project management
+## 14. [Project management](/sessions/14-project-mgmt.md)
 
-T 04/20/21
+T 04/26/21
 
 Note-taker: Alice
 
